@@ -6,7 +6,7 @@
   Utilising iterators reduces the number of intermediate arrays that are created
   during the sort!
 
-  [![Build Status](https://travis-ci.org/jb55/sortby-iterator.png)](https://travis-ci.org/jb55/sortby-iterator)
+  [![Build Status](https://travis-ci.org/jb55/sortby-iterator.svg)](https://travis-ci.org/jb55/sortby-iterator)
 
 ## Installation
 
